@@ -44,6 +44,6 @@ To get a local copy up and running, follow these steps:
 
 # Acknowledgements
 
-[Node.js](https://nodejs.org/en) 
-[React.js](https://react.dev/)
-[Material UI](https://mui.com/)
+- [Node.js](https://nodejs.org/en) 
+- [React.js](https://react.dev/)
+- [Material UI](https://mui.com/)
