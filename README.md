@@ -26,16 +26,16 @@ To get a local copy up and running, follow these steps:
    ```
 
 ## 2. Install the dependencies:
-    ```
-    npm install
+   ```
+   npm install
 
-    ```
+   ```
 
 ## 3. Start the application:
-    ```
-    npm start
+   ```
+   npm start
 
-    ```
+   ```
 
 # Usage
 - Open the app in your web browser.
